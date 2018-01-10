@@ -20,7 +20,7 @@ function iLoveTheBeatles(array) {
   var newArray = [];
   var start = 0;
   do {
-    newArray.push(array[1] + "!");
+    newArray.push(array[] + "!");
   }
   while (array.length < 8) {
     newArray.push(array[start] + "!");
