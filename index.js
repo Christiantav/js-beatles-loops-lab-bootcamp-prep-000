@@ -25,3 +25,4 @@ function iLoveTheBeatles(number) {
   while (number < 10) {
     return newArray;
   }
+}
