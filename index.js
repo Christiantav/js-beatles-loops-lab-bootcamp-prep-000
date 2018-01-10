@@ -13,5 +13,5 @@ function johnLennonFacts(array) {
     newArray.push(array[start] + "!!!");
     start++;
   }
-  return array
+  return newArray
 }
